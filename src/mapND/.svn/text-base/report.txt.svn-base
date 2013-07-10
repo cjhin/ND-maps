@@ -1,0 +1,14 @@
+Lab 8:  Report
+Programmers:  Pat Raycroft, Ashley Taylor
+
+In this lab, we created a basic layout of a GUI for a map service of Notre Dame's campus in Qt.
+
+//////////////////////////////////////////////////////
+
+	From the user's perspective, the program launches a GUI that has several elements.  It first has a Menu bar and Tool bar at the top of the window (without functional buttons).  Next, on the left of the main screen, is a menu widget that will eventually allow the user to enter in source and destination locations in order to find the shortest route.  On the right of the main screen, there is a window that will eventually containa map of Notre Dame's campus.  Currently, there is a "dummy" image that solely demonstrates that the user can zoom and pan the image.
+
+	From the programmer's perspective, there are two classes used in the program:  Window and Map.  The first, Window, is a QMainWindow object in Qt and opens the entire GUI.  In this class, several functions are used to create the Menu and Tool bars along with the side menu widget.  The second, Map, is a QGraphicsView object that is instantiated in the Window class using composition.  In this class, a QGraphicsScene object is created that allows the printing of the map image to the scene and also allows the user to zoom and pan the map image.
+
+	The verification of the results solely consisted of visually checking the GUI and ensuring that the map zoomed/panned.
+
+ 

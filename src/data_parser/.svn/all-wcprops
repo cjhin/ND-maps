@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/44/trunk/src/data_parser
+END
+nodes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/trunk/src/data_parser/nodes.txt
+END
+map_parser
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/trunk/src/data_parser/map_parser
+END
+nodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/src/data_parser/nodes.cpp
+END
+map_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/src/data_parser/map_parser.cpp
+END
+nodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/src/data_parser/nodes.h
+END
